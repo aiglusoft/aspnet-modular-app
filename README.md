@@ -1,1 +1,1 @@
-TemplateModularApp
+MyOrg.AppName
